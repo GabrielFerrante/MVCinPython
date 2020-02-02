@@ -1,2 +1,2 @@
 # MVCinPython
- Um sistema simples que cadastra uma conta, remove e exibe todas ou uma conta especifica
+ Um sistema simples que cadastra uma compra, remove e exibe todas ou uma compra especifica
