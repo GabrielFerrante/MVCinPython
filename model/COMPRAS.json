@@ -1,0 +1,26 @@
+{
+    "0": {
+        "Dados": {
+            "Descricao": "Aluguel",
+            "Valor": 426.0,
+            "Credor": "Pensao",
+            "DataRealizada": "13/01/2020"
+        }
+    },
+    "1": {
+        "Dados": {
+            "Descricao": "Ventilador",
+            "Valor": 80.0,
+            "Credor": "Lojas Americanas",
+            "DataRealizada": "20/01/2020"
+        }
+    },
+    "2": {
+        "Dados": {
+            "Descricao": "Assento para Vaso",
+            "Valor": 40.0,
+            "Credor": "Real Forte",
+            "DataRealizada": "20/01/2020"
+        }
+    }
+}
